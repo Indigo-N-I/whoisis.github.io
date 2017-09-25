@@ -1,5 +1,14 @@
 
 body{
-    text-align: center;
     background-color: #EEE;
+}
+h1, h2, h3{
+    text-align: center;
+}
+p{
+    text-align: left;
+    color: red;
+}
+ul{
+    color: blue;
 }
