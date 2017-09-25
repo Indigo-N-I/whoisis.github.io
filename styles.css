@@ -7,8 +7,9 @@ h1, h2, h3{
 }
 p{
     text-align: left;
-    color: red;
+    color: #AAA;
+    font-family: 'Oxygen', sans-serif;
 }
 ul{
-    color: blue;
+    color: #A1A;
 }
