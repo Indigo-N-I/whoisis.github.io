@@ -1,11 +1,15 @@
 
 body{
     background-image: url("SelfieProm2017.jpg");
-    background-size: 45%;
+    background-size: 35%;
     background-position: center top;
     background-repeat: no-repeat;
     background-color: #AAA;
 }
+div.AcidemicAchievements{
+    border: 5px solid green;
+}
+
 
 h1, h2, h3{
     text-align: center;
@@ -15,6 +19,7 @@ p{
     color: #19E;
     font-family: 'Oxygen', sans-serif;
 }
+
 ul{
     color: #A01;
     font-family: "Arial";
@@ -27,5 +32,8 @@ ul{
     color: #EEE;
 }
 #AboutMe{
-    color:#EEE;
+    color:#FDD;
+}
+#AcidemicAchievements{
+    color:#000;
 }
