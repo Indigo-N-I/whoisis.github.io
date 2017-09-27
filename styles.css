@@ -12,6 +12,9 @@ body{
 div{
     column-count: 2;
 }
+.PastExperiences{
+    column-count: 1;
+}
 
 h1, h2, h3{
     text-align: center;
@@ -40,4 +43,7 @@ ul{
 }
 #AcidemicAchievements{
     color:#000;
+}
+.ContactInfo{
+    color: rgb(0,0,0);
 }
