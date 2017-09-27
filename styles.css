@@ -4,12 +4,12 @@ body{
     background-size: 35%;
     background-position: center top;
     background-repeat: no-repeat;
-    background-color: #AAA;
+    background-color: rgba(0,0,0,0.5);
 }
 .AcidemicAchievements{
-    border: 5px solid green;
+    border: 5px solid #ACA;
 }
-.AboutMe{
+div{
     column-count: 2;
 }
 
@@ -25,7 +25,8 @@ p{
 ul{
     color: #A01;
     font-family: "Arial";
-    text-align: center;
+    display: table; 
+    margin:0 auto;
 }
 .academics{
      color: #21B;   
