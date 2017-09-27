@@ -28,8 +28,8 @@ p{
     color: #19E;
     font-family: 'Oxygen', sans-serif;
 }
-.fuck{
-    color: #000;
+.cuck{
+    color: #EEE;
 }
 ul{
     color: #A33;
@@ -46,4 +46,8 @@ ul{
 }
 #AcidemicAchievements{
     color:#000;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
 }
