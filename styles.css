@@ -6,10 +6,12 @@ body{
     background-repeat: no-repeat;
     background-color: #AAA;
 }
-div.AcidemicAchievements{
+.AcidemicAchievements{
     border: 5px solid green;
 }
-
+.AboutMe{
+    column-count: 2;
+}
 
 h1, h2, h3{
     text-align: center;
@@ -23,6 +25,7 @@ p{
 ul{
     color: #A01;
     font-family: "Arial";
+    text-align: center;
 }
 .academics{
      color: #21B;   
