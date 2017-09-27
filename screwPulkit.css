@@ -4,17 +4,23 @@ body{
     background-size: 35%;
     background-position: center top;
     background-repeat: no-repeat;
-    background-color: #AAA;
+    background-color: #DDE;
 }
 .AcidemicAchievements{
-    border: 5px solid green;
+    border: 5px solid #ACA;
 }
-.AboutMe{
-    column-count: 2;
+div{
+    column-count: 1;
+}
+.PastExperiences{
+    column-count: 1;
 }
 
 h1, h2, h3{
     text-align: center;
+}
+.class{
+    color: #FED;
 }
 p{
     text-align: left;
@@ -25,17 +31,15 @@ p{
 ul{
     color: #A01;
     font-family: "Arial";
-    text-align: center;
+    display: table; 
+    margin:0 auto;
 }
 .academics{
      color: #21B;   
      font-family: monospace;
 }
 #Header{
-    color: #EEE;
-}
-#AboutMe{
-    color:#FDD;
+    color: #FED;
 }
 #AcidemicAchievements{
     color:#000;
