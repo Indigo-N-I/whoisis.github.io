@@ -1,13 +1,18 @@
 
 body{
-    background-color: #EEE;
+    background-image: url("SelfieProm2017.jpg");
+    background-size: 45%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: #AAA;
 }
+
 h1, h2, h3{
     text-align: center;
 }
 p{
     text-align: left;
-    color: #AAA;
+    color: #19E;
     font-family: 'Oxygen', sans-serif;
 }
 ul{
@@ -16,4 +21,11 @@ ul{
 }
 .academics{
      color: #21B;   
+     font-family: monospace;
+}
+#Header{
+    color: #EEE;
+}
+#AboutMe{
+    color:#EEE;
 }
