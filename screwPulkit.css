@@ -1,10 +1,11 @@
 
 body{
-    background-image: url("SelfieProm2017.jpg");
-    background-size: 35%;
+    background-image: url("Mars.jpg");
+    background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
     background-color: #DDE;
+    color: #F00;
 }
 .AcidemicAchievements{
     border: 5px solid #ACA;
@@ -27,15 +28,17 @@ p{
     color: #19E;
     font-family: 'Oxygen', sans-serif;
 }
-
+.fuck{
+    color: #000;
+}
 ul{
-    color: #A01;
+    color: #A33;
     font-family: "Arial";
     display: table; 
     margin:0 auto;
 }
 .academics{
-     color: #21B;   
+     color: #F0F;   
      font-family: monospace;
 }
 #Header{
