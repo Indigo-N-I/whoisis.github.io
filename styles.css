@@ -37,9 +37,25 @@ ul{
     display: table; 
     margin:0 auto;
 }
-.academics{
+#academics{
      color: #F0F;   
      font-family: monospace;
+     visibility: hidden;
+}
+#academics1{
+     color: #F0F;   
+     font-family: monospace;
+     visibility: hidden;
+}
+#academics2{
+     color: #F0F;   
+     font-family: monospace;
+     visibility: hidden;
+}
+#academics3{
+     color: #F0F;   
+     font-family: monospace;
+     visibility: hidden;
 }
 #Header{
     color: #FED;
