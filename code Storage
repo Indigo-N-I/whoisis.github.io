@@ -1,0 +1,55 @@
+<div class = "AcidemicAchievements">
+                <h3>Academic Achievements</h3>
+                <button onclick="showAci()" id="fuck"> Show Achievements </button>
+            <ul>
+                <div id = "academics">
+                <li>4.43 Weighted GPA</li>
+                <li>AP Scores:</li>
+                <ul>
+                    <div id = "academics1">
+                    <li>Calculus AB - 5</li>
+                    <li>Calculus BC - 5</li>
+                    <li>Chemsitry - 5</li>
+                    <li>Computer Science A - 5</li>
+                    </div>
+                </ul>
+                <li>SAT (1600): 1510</li>
+                <ul>
+                    <div id = "academics2">
+                    <li>Math - 790</li>
+                    <li>English - 720</li>
+                    </div>
+                </ul>
+                <li>SAT subject tests</li>
+                <ul>
+                    <div id = "academics3">
+                    <li>Biology E - 760</li>
+                    <li>Biology M - 760</li>
+                    <li>Chemsitry - 790</li>
+                    <li>Math II - 800</li>
+                    <li>Physics - 790</li>
+                    </div>
+                </ul>
+                </div>
+            </ul>
+            </div>
+            
+            
+            
+            
+            
+                    <div class = "ContactInfo">
+            <h2>Follow Me</h2>
+            <table>
+                <tr>
+                    <td><a href = "https://facebook.com/jadakenpordafordizazafud" target = "_blank">
+                <img src="FacebookLogo.png" style="width:40px;height:40px"></a></td>
+                <td>
+            <a href = "https://youtube.com/channel/UCXbArvYzLReqidf5qHzvH3w?" target = "_blank">
+            <img src="Youtube Logo.png" style="width:40px;height:40px"></a></td>
+                <td><a href = "https://instagram.com/tim.e.out/" target = "_blank">
+                <img src="Instagram.png" style="width:40px;height:40px"></a></td>
+                </tr>
+            </table>
+            <p class = "cuck">Phone Number: 8476684279</p>
+        </div>

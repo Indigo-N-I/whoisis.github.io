@@ -6,12 +6,16 @@ body{
     background-repeat: no-repeat;
     background-color: #DDE;
     color: #F00;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .AcidemicAchievements{
     border: 5px solid #ACA;
 }
 div{
     column-count: 1;
+    overflow: hidden;
 }
 .PastExperiences{
     column-count: 1;
