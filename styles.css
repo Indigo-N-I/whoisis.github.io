@@ -17,6 +17,13 @@ div{
     column-count: 1;
 }
 
+button{
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    color: #FFF;
+}
+
 h1, h2, h3{
     text-align: center;
 }
@@ -40,22 +47,19 @@ ul{
 #academics{
      color: #F0F;   
      font-family: monospace;
-     visibility: hidden;
+     display: none;
 }
 #academics1{
      color: #F0F;   
      font-family: monospace;
-     visibility: hidden;
 }
 #academics2{
      color: #F0F;   
      font-family: monospace;
-     visibility: hidden;
 }
 #academics3{
      color: #F0F;   
      font-family: monospace;
-     visibility: hidden;
 }
 #Header{
     color: #FED;

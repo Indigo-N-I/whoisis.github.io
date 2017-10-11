@@ -7,16 +7,19 @@ function showAci() {
     var w = document.getElementById("academics3");
     if(i%2 ==1){
         document.getElementById("fuck").innerText = "Hide Achievements";
-        x.style.visibility = "visible";
-        y.style.visibility = "visible";
-        z.style.visibility = "visible";
-        w.style.visibility = "visible";
+        x.style.display = "block";
+        y.style.display = "block";
+        z.style.display = "block";
+        w.style.display = "block";
+        document.getElementById("fuck").style.color = "#222";
     }
     if(i%2 == 0){
         document.getElementById("fuck").innerText = "Show Achievements";
-        x.style.visibility = "hidden";
-        y.style.visibility = "hidden";
-        z.style.visibility = "hidden";
-        w.style.visibility = "hidden";
+        x.style.display = "none";
+        y.style.display = "none";
+        z.style.display = "none";
+        w.style.display = "none";
+        document.getElementById("fuck").style.color = "#FFF";
     }
+
 }
