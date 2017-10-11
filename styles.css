@@ -1,24 +1,58 @@
 
-body{
-    background-image: url("Mars.jpg");
+body,html{
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
-    background-color: #DDE;
     color: #F00;
-    max-width: 750px;
-    margin-left: auto;
-    margin-right: auto;
+    height: 100%;
 }
 .AcidemicAchievements{
     border: 5px solid #ACA;
+}
+.parallax1{
+    background-image: url("SelfieProm2017.jpg");
+   
+    height: 30%;
+   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    background-image: url("Mars.jpg");
+   
+    height: 30%;
+   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 div{
     column-count: 1;
     overflow: hidden;
 }
-.PastExperiences{
-    column-count: 1;
+#Avademics{
+    padding-left: 27%;
+    padding-right: 27%;
+    background-color: rgba(21,21,57,.6);
+}
+#School{
+    padding-left: 27%;
+    padding-right: 27%;
+    background-color: rgba(10,100,100,.5);
+}
+#FavoriteExperiences{
+    padding-left: 27%;
+    padding-right: 27%;
+    background-color: rgba(50,5,100,.6);
+    
+}
+#Intro{
+    padding-left: 27%;
+    padding-right: 27%;
+    background-color: transparent;
 }
 
 button{
@@ -49,25 +83,23 @@ ul{
     margin:0 auto;
 }
 #academics{
-     color: #F0F;   
+     color: #19E;   
      font-family: monospace;
-     display: none;
+     
 }
 #academics1{
-     color: #F0F;   
+     color: #19E;   
      font-family: monospace;
 }
 #academics2{
-     color: #F0F;   
+     color: #19E;   
      font-family: monospace;
 }
 #academics3{
-     color: #F0F;   
+     color: #19E;   
      font-family: monospace;
 }
-#Header{
-    color: #FED;
-}
+
 table{
     margin-right: auto;
     margin-left: auto;
